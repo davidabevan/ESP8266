@@ -1,5 +1,7 @@
 #  Enhanced ESP8266 Color Weather Station w/ Touchscreen -- (Version v15) (based on original by Daniel Eichorn (squix78) )
 
+___ADDED London_Time_Zone________DB Dec 15 2018......
+
 This project is a series of enhancements made to the original color weather station for the ESP8266 created by Daniel Eichorn, with contributions by several others.  Though the original display layout came from squix78, I've made substantial changes to add additional information.
 
 This version of the project was written specifically for the WeMos Mini D1 with the 2.8" or 3.2" color LCD display based on the ILI9341 and XPT2046 touchscreen controller that squix78 used.  These can be had very inexpensively from sources such as AliExpress (<$10, shipped to the US, or slightly more for the 3.2" version).  You may also want to pick up a cheap stylus for the screen if it doesn't come with one.
