@@ -1,6 +1,6 @@
 #  Enhanced ESP8266 Color Weather Station w/ Touchscreen -- (Version v15) (based on original by Daniel Eichorn (squix78) )
 
-___ADDED London_Time_Zone________DB Dec 15 2018......
+                                      ___ADDED London_Time_Zone________DB Dec 15 2018......
 
 This project is a series of enhancements made to the original color weather station for the ESP8266 created by Daniel Eichorn, with contributions by several others.  Though the original display layout came from squix78, I've made substantial changes to add additional information.
 
